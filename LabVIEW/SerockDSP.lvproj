@@ -16,6 +16,7 @@
 		<Item Name="Close_Device.vi" Type="VI" URL="../Close_Device.vi"/>
 		<Item Name="Get_Analog_Value.vi" Type="VI" URL="../Get_Analog_Value.vi"/>
 		<Item Name="Init_Device.vi" Type="VI" URL="../Init_Device.vi"/>
+		<Item Name="Get_Analog_Value_Two_Channels.vi" Type="VI" URL="../Get_Analog_Value_Two_Channels.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="VISA Configure Serial Port" Type="VI" URL="/&lt;vilib&gt;/Instr/_visa.llb/VISA Configure Serial Port"/>
